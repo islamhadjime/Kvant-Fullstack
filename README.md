@@ -7,6 +7,13 @@ Dark/light UI, **Russian interface**, mobile-friendly responsive layout.
 **Contact / purchase:** Telegram — [@history_none](https://t.me/history_none)
 
 ---
+---
+![PHOTO — скриншот](https://github.com/islamhadjime/Kvant-Fullstack/blob/main/code/CODE.png)
+## Demo video
+Watch the project walkthrough on YouTube:
+
+**[YouTube demo — add your link here](https://www.youtube.com/watch?v=-zhhre7_hvE)**
+
 
 ## What you get
 
