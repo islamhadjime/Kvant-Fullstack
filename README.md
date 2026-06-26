@@ -12,7 +12,7 @@ Dark/light UI, **Russian interface**, mobile-friendly responsive layout.
 ## Demo video
 Watch the project walkthrough on YouTube:
 
-**[YouTube demo — add your link here](https://www.youtube.com/watch?v=-zhhre7_hvE)**
+**[YouTube demo — add your link here](https://youtu.be/xYrM4q7Ufus?si=5Krj-j8PBBbDJaES)**
 
 
 ## What you get
